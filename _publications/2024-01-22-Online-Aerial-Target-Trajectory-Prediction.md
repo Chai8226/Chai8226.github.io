@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/paper1
 excerpt: 'This paper is about the online aerial target trajectory prediction.'
-date: 2024
+date: 2024-01-22
 venue: 'Conference 1'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
