@@ -1,7 +1,7 @@
 ---
 title: "Online Aerial Target Trajectory Prediction Using Multiple Model-Based Filter"
 collection: publications
-category: Conference Articles
+category: conferences
 permalink: /publication/2024-01-22-Online-Aerial-Target-Trajectory-Prediction
 excerpt: 'This paper is about the online aerial target trajectory prediction.'
 date: 2024-01-22
