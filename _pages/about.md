@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from Sichuan University. My research interest includes motion and path planning, search and rescue, and autonomous UAV platform.
-
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+I am a third year undergraduate student from Sichuan University. My research interest includes motion and path planning, search and rescue, and autonomous UAV platform.
 
 [Email](mailto:lin6hai@stu.scu.edu.cn) / [Github](https://github.com/Chai8226)
