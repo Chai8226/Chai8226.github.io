@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2024-01-22-Online-Aerial-Target-Trajectory-Prediction
 excerpt: 'This paper is about the online aerial target trajectory prediction.'
 date: 2024-01-22
-venue: 'Conference 1'
+venue: '2024 IEEE International Conference on Unmanned Systems (ICUS)'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
